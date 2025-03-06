@@ -1,11 +1,12 @@
 ---
-title: My First Blog Post
-published: 2029-09-09
-description: This is the first post of my new Astro blog.
-image: ./cover.jpg
-tags: [Foo, Bar]
-category: Front-end
-draft: false
+title: Markdown
+published: 2024-05-01
+updated: 2024-11-29
+description: 'Read more about Markdown features in Fuwari'
+image: ''
+tags: [Demo, Example, Markdown, Fuwari]
+category: 'Examples'
+draft: false 
 ---
 
 ### 你好
