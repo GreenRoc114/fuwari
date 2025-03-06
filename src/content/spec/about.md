@@ -1,5 +1,5 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+This is GreenRoc's blog. Powered by [Fuwari](https://github.com/saicaca/fuwari).
 
 ::github{repo="saicaca/fuwari"}
 
