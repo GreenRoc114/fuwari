@@ -15,13 +15,13 @@ export const siteConfig: SiteConfig = {
     fixed: false,     // Hide the theme color picker for visitors
   },
   banner: {
-    enable: false,
-    src: 'https://api.rls.ovh/adaptive',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    enable: true,
+    src: 'https://images.unsplash.com/photo-1636533676978-d42e9f4a8231?q=80&w=2342&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
-      enable: false,         // Display the credit text of the banner image
-      text: '',              // Credit text to be displayed
-      url: ''                // (Optional) URL link to the original artwork or artist's page
+      enable: true,         // Display the credit text of the banner image
+      text: 'Sofia Pettersson',              // Credit text to be displayed
+      url: 'https://unsplash.com/photos/a-purple-and-red-sunset-over-a-river-LKS4Yoxaxcw'                // (Optional) URL link to the original artwork or artist's page
     }
   },
   toc: {
